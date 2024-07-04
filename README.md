@@ -1,12 +1,12 @@
 # Fidellink
 
 <p align="center">
-  <img src="https://github.com/paulo95code/Fidellink_Oficial/blob/main/assets/img/logo.png" alt="Fidellink Logo" width="300"/>
+  <img src="https://github.com/paulo95code/public_repos/blob/main/assets/img/logo.png" alt="Fidellink Logo" width="300"/>
 </p>
 
 **Fidellink**, anteriormente conhecido como Fideligo, é um projeto inovador de fidelização de clientes. Agora em versão SAAS com sistema de cobrança automática, foi desenvolvido para substituir os tradicionais cartões fidelidade de papel, proporcionando uma experiência mais eficiente e simples para os usuários.
 <p align="center">
-  <img src="https://github.com/paulo95code/Fidellink_Oficial/blob/main/assets/img/download.gif" alt="Fidellink Demo" width="800"/>
+  <img src="https://github.com/paulo95code/public_repos/blob/main/assets/img/download.gif" alt="Fidellink Demo" width="800"/>
 </p>
 
 ## Objetivo
