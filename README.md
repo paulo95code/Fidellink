@@ -30,4 +30,4 @@ O objetivo do Fidellink é facilitar o processo de fidelização de clientes, of
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença Fidellink (SaaS) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
